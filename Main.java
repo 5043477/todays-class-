@@ -16,7 +16,7 @@ public class Main {
 
   String[] i = {"1","2","3","4","5","6","7","8","9"};
     for (int i = 8; i > 0; i--) {
-      if (int[] % 2 == 0)
+      if(int[i]  % 2 == 0);
         System.out.println(food[i]);
 
     }
